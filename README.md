@@ -1,5 +1,9 @@
 # React Native Parsed Text
 
+## note for aquicore employees
+this was forked from the original repo because there are some bugs with fix PRs that were not merged for > 6 months with no response from the maintainers
+
+
 This library allows you to parse a text and extract parts using a `RegExp` or predefined patterns.
 Currently there are 3 predefined types: `url`, `phone` and `email`.
 
